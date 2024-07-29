@@ -8,8 +8,7 @@ def start(FILEPATH):
 
 
 if __name__ == "__main__":
-    start('14.jpg')
-    numpy.array(start('14.jpg'))
+    pass # code goes here
     
 
 
